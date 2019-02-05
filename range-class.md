@@ -6,3 +6,7 @@
 ### !vimeo
 * id: 315286728
 ### !end-vimeo
+
+<!-- temp until the vimeo tag works -->
+<iframe height="100%" width="100%" allowfullscreen="true" type="iframe"
+  title="Video" src="//player.vimeo.com/video/315286728" ></iframe>
