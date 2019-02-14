@@ -1,298 +1,239 @@
 ---
-Title:                     toy-problems
+Title: toy-problems
 # other galvanize-flavored-markdown commands you can use when working on this file--
-# `lessonyaml`:            add one lesson
-# `unityaml`:              add a standard, including one checkpoint and lesson
+# `lessonyaml`: add one lesson
+# `unityaml`: add a standard, including one checkpoint and lesson
 # Be sure to place the cursor at the appropriate indentation level before running either of these.
 Standards:
   -
-    Title:                 Toy Problem Solutions
-    UID:                   0d144c58-3577-447f-8153-1ab655d3c433
-    Description:           Solutions to your daily toy problems.
+    Title: Toy Problem Solutions
+    UID: 0d144c58-3577-447f-8153-1ab655d3c433
+    Description: Solutions to your daily toy problems.
     SuccessCriteria:
       - It works
     ContentFiles:
-      -
-        Type:              Lesson
-        UID:               ff561a7b-0dbf-4a1d-984f-248ac7408637
-        Path:              /overview.md
-      -
-        Type:              Lesson
-        UID:               b69f783f-cad1-4a93-8b9e-e814df8dec14
-        Path:              Solution/hash-table-resizing.md
+      - Type: Lesson
+        UID: ff561a7b-0dbf-4a1d-984f-248ac7408637
+        Path: Solutions/overview.md
+      - Type: Lesson
+        UID: b69f783f-cad1-4a93-8b9e-e814df8dec14
+        Path: Solutions/hash-table-resizing.md
+      - Type: Lesson
+        UID: 3b0dd5f5-4681-4a10-abba-3351a8e37c02
+        Path: Solutions/range-class.md
+      - Type: Lesson
+        UID: e7c73d08-c352-4c73-a301-c0e112c964cf
+        Path: Solutions/rockPaperScissors.md
         DefaultVisibility: hidden
-      -
-        Type:              Lesson
-        UID:               3b0dd5f5-4681-4a10-abba-3351a8e37c02
-        Path:              Solution/range-class.md
+      - Type: Lesson
+        UID: 23040b8c-6fdd-44f1-ada7-63efbeefb53b
+        Path: Solutions/evenOccurrence.md
         DefaultVisibility: hidden
-      -
-        Type:                  Lesson
-        UID:                   e15d7f73-d985-4b75-be80-aadec3b4ad2b
-        Path:                  Solutions/rockPaperScissors.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   d3260598-6a2a-4061-9fcc-bd5df1b0d5cc
-        Path:                  Solutions/evenOccurrence.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   bc98bf1a-d1e2-4557-b68d-96206109cdfd
-        Path:                  Solutions/hashTableResizing.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   ffefd1b8-7a3f-46a1-81c6-a87f7fe4bf2c
-        Path:                  Solutions/constantTimeStackMin.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   88c5f707-ac31-4b51-b53b-a5eaf49f758a
-        Path:                  Solutions/linkedListCycles.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   35c635bc-188a-4f18-9962-5f8cb6c5578b
-        Path:                  Solutions/bubbleSort.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   6aa8e985-d203-421e-963c-a3095ed07ed7
-        Path:                  Solutions/insertionSort.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   6bcd7ac0-2fee-4691-9499-14a72f26dbe5
-        Path:                  Solutions/quicksort.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   79d2beb3-44c4-444f-8e93-c4228b1f41de
-        Path:                  Solutions/mergeSort.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   717d0d1c-8a16-48b9-9874-324cc9b23d05
-        Path:                  Solutions/shuffleDeck.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   a3276bea-7009-4604-b92b-08278dc30367
-        Path:                  Solutions/nonrepeatedCharacter.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   264ff57f-08f3-4058-b1db-9b77e4732cd4
-        Path:                  Solutions/telephoneWords.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   77830b62-787f-4d21-ba74-a155bd09d169
-        Path:                  Solutions/allAnagrams.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   5641ef0b-02f3-4b08-86b4-ebb3f83eecea
-        Path:                  Solutions/coinSums.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   5550b4ec-387f-40a5-8c8b-396b18f9d1ca
-        Path:                  Solutions/powerSet.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   9a1077b9-cdc2-4f8f-af5b-18c138bddb18
-        Path:                  Solutions/treeDFSelect.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   1e42dbf6-8cfa-4aae-b2bf-945b871a23ba
-        Path:                  Solutions/binarySearchArray.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   c7d42a38-256f-406c-b531-c38b894c7672
-        Path:                  Solutions/treeCountLeaves.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   ccf13c86-2d39-4bc1-a41e-b98a814c491f
-        Path:                  Solutions/deepEquality.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   e546429a-182b-4153-ae04-c6a4614c8de2
-        Path:                  Solutions/treeBFSelect.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   a294e04d-d9f3-4d60-aa7d-e3c423e54212
-        Path:                  Solutions/asyncMap.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   eaf62233-e6e5-4463-9dc4-c4116838838a
-        Path:                  Solutions/functionBind.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   a5e30fcd-58b4-411e-b4b0-e3fbcad0aab4
-        Path:                  Solutions/composePipe.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   6d8a6603-be12-4010-926a-1865fe993136
-        Path:                  Solutions/commonCharacters.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   3366b459-b6f6-407c-b2d7-0faaa1a38f40
-        Path:                  Solutions/eventingLibrary.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   6af40acc-b969-4db1-955c-dd43d6516632
-        Path:                  Solutions/binaryHeap.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   9bace80c-0163-445b-b3f8-9826b0e6b0c3
-        Path:                  Solutions/rangeClass.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   74f99ba7-da65-42ed-857a-55550d629bac
-        Path:                  Solutions/lruCache.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   0b009f57-f117-4028-9308-a64e10f481eb
-        Path:                  Solutions/linkedListIntersection.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   5af8c34f-f807-415c-9741-9c6fa05de75f
-        Path:                  Solutions/romanNumeralTranslator.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   7ce78e7a-d66f-4ab2-a6fe-4d1871e954fc
-        Path:                  Solutions/largestProductOfThree.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   fa927f1d-0bf7-4f65-886e-3a3c505097c3
-        Path:                  Solutions/sudokuChecker.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   ab6f4aa5-6455-427b-a7f2-55d2b06d7370
-        Path:                  Solutions/integerReverse.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   cfad1076-ed2f-40d1-af29-1ff1f7c2aeb3
-        Path:                  Solutions/fractionConverter.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   ab88b6b3-08d5-4be8-8d6c-a73c771fbdb9
-        Path:                  Solutions/longestPalindrome.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   2953b402-bf48-401d-8a69-b645a495f42f
-        Path:                  Solutions/sumArray.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   e3d5db93-513a-4599-b0fa-1ca9286c4854
-        Path:                  Solutions/numberToEnglish.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   8899924f-6cfc-46fb-b041-29efa812ed7f
-        Path:                  Solutions/editDistance.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   bd8b1d43-0dd7-434e-a589-a4d3e0e45531
-        Path:                  Solutions/rotatedArraySearch.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   af9ba6be-a5fc-4ef4-b9d0-8bfdd6e1c6d6
-        Path:                  Solutions/spiralTraversal.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   83535a1a-62ba-4b88-a49a-6456d889b4ed
-        Path:                  Solutions/rotateMatrix.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   79d12c30-d9a3-4437-a22e-9a600f2864db
-        Path:                  Solutions/commonAncestor.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   0f02e4c7-be93-415c-8b51-acf5421594d1
-        Path:                  Solutions/robotPaths.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   d583ae0c-5bd3-447a-b5e2-85eddc30f9c6
-        Path:                  Solutions/islandCount.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   ae41b097-d324-413f-be22-85d866fae42d
-        Path:                  Solutions/characterFrequency.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   1232b30a-886e-45d6-b00d-06c0ff44d006
-        Path:                  Solutions/nthFibonacci.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   40d57243-32d2-4c2f-8363-5e438d7da533
-        Path:                  Solutions/isSubsetOf.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   e7d605d2-28c4-42fe-91d0-15d8eafba252
-        Path:                  Solutions/longestRun.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   194e3104-a50b-4e18-bf8b-2e3f4d329245
-        Path:                  Solutions/primeTester.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   1007516c-2d2b-4d48-a2ae-536645f22e6c
-        Path:                  Solutions/linkedList.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   0e15aa7d-8b77-4f1c-9765-990a53c62459
-        Path:                  Solutions/tree.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   6198b1e3-822a-414f-9e81-369b6813d27e
-        Path:                  Solutions/queueStack.md
-        DefaultVisibility:     hidden
-      -
-        Type:                  Lesson
-        UID:                   a153a73f-8ca6-46d0-9a17-312f5d3612a2
-        Path:                  Solutions/hashTable.md
-        DefaultVisibility:     hidden
-      -
-        Type:              Checkpoint
-        UID:               3d5d095e-8349-48fd-961b-6d7be98d1089
-        Path:              /checkpoint.md
-        Autoscore:         false
+      - Type: Lesson
+        UID: a3660418-fcef-437d-9d25-ca9602db7525
+        Path: Solutions/hashTableResizing.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 096e8635-011f-4140-8121-5af9f9b4da20
+        Path: Solutions/constantTimeStackMin.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 25e890a0-29b3-432a-afab-b760d9625c47
+        Path: Solutions/linkedListCycles.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: e0d04d3a-7455-47c9-82c0-4130d5ca21e9
+        Path: Solutions/bubbleSort.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 8c6bd00a-3238-4466-bf85-8d0cd4ff0b75
+        Path: Solutions/insertionSort.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 7231cb8a-f2d6-48a4-9cc5-3d3ddc691435
+        Path: Solutions/quicksort.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: a17e506f-d8d7-4396-801f-658ec79dd6d1
+        Path: Solutions/mergeSort.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 4fa48040-872f-415f-a8bd-81c2229f3636
+        Path: Solutions/shuffleDeck.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 14e5bb90-cc96-466d-a5bd-426e9047453a
+        Path: Solutions/nonrepeatedCharacter.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 202dbb98-288d-4f09-9bf2-5240a86502da
+        Path: Solutions/telephoneWords.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 0d501845-9837-40e3-9614-47c1a7c22366
+        Path: Solutions/allAnagrams.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 7fcbdf55-06b0-4a48-8786-37d42978607f
+        Path: Solutions/coinSums.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: ca6c338e-1619-40a5-a67b-c3ba424902c2
+        Path: Solutions/powerSet.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 36c3e649-1ca5-4897-993e-a6333e4db830
+        Path: Solutions/treeDFSelect.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: ea656a3f-7aa5-4522-8b56-a057ddd1eadd
+        Path: Solutions/binarySearchArray.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: e9da626a-e20f-4dc7-9306-2cbfa3c73ac4
+        Path: Solutions/treeCountLeaves.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: ffd2d9b9-1474-4657-a5fa-0fe12a62a631
+        Path: Solutions/deepEquality.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 3835a270-679f-4085-847a-280bbec68fd6
+        Path: Solutions/treeBFSelect.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 42a98d3b-c9ac-4d3f-b3e3-4eeb2d4a9890
+        Path: Solutions/asyncMap.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 7d7bdab5-96f6-450f-98e8-1c3009969b96
+        Path: Solutions/functionBind.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: fd32cbf6-d699-4981-a4f2-6a0347069ffa
+        Path: Solutions/composePipe.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 8e163a3a-e15c-42e0-a1fc-f91042b13310
+        Path: Solutions/commonCharacters.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 6f96f7d8-d6f9-43fa-b778-e42339a59abf
+        Path: Solutions/eventingLibrary.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 094e4afe-736b-4c95-9d84-90422d2b1274
+        Path: Solutions/binaryHeap.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: e6322135-922a-4f9c-af78-945c60aaa06a
+        Path: Solutions/rangeClass.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 424fbc2d-934c-4de6-9bb9-11ee8187bc95
+        Path: Solutions/lruCache.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 023d8f30-8d3d-43d9-91ec-e33e174f980c
+        Path: Solutions/linkedListIntersection.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: d26344bf-999d-45ac-aaed-426fa353b447
+        Path: Solutions/romanNumeralTranslator.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 2f1ff4d1-1555-45ef-b4f0-cf3abfc84edc
+        Path: Solutions/largestProductOfThree.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 767313a0-3849-4d58-b6a4-e98ac692dfc0
+        Path: Solutions/sudokuChecker.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 12815eab-f4b5-41b6-b537-cc75837a8bc9
+        Path: Solutions/integerReverse.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 4a0bca13-6eb4-400a-84be-1a1619058d48
+        Path: Solutions/fractionConverter.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 080ad40b-39a5-4a8a-b081-aea09af3fa03
+        Path: Solutions/longestPalindrome.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 6b69a640-0a9c-4cf5-9f6c-f4155a6cc36b
+        Path: Solutions/sumArray.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: d65c55a2-1bde-42f7-a39a-e114f31b10aa
+        Path: Solutions/numberToEnglish.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: d6e946cd-463e-4ef6-a33a-e4ef88593528
+        Path: Solutions/editDistance.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 36962679-96a4-42a4-ba62-c2b516ff851c
+        Path: Solutions/rotatedArraySearch.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 50548ae3-8de8-4240-b165-00502b4d17de
+        Path: Solutions/spiralTraversal.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: dcc1946c-5cb9-49f7-bf92-8b7131a37c2f
+        Path: Solutions/rotateMatrix.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: e2ccbc1f-d3cc-4530-82ec-2a781db96e19
+        Path: Solutions/commonAncestor.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 1eb3095e-6a18-4db5-b99a-813c9c09c9ea
+        Path: Solutions/robotPaths.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: f58a210c-8ea4-43be-8e33-f111a9228485
+        Path: Solutions/islandCount.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: d58b6eeb-16e1-4c88-bc79-e34966d9d590
+        Path: Solutions/characterFrequency.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 614b8373-dadc-4659-8d74-bf24be0e6dcd
+        Path: Solutions/nthFibonacci.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: af4a1395-a78a-4397-b301-3ceb7593347a
+        Path: Solutions/isSubsetOf.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 34bc8446-240f-4433-868f-f4cbb69d9698
+        Path: Solutions/longestRun.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: a50c5916-e21f-40ff-b4d0-f125cfcb503d
+        Path: Solutions/primeTester.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: f08b1d04-6e22-486a-98b4-12b4679c1c19
+        Path: Solutions/linkedList.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: cdfee2de-5c23-470d-a52d-093090948c73
+        Path: Solutions/tree.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: 0603d45a-d461-4ace-b241-e3283da7638f
+        Path: Solutions/queueStack.md
+        DefaultVisibility: hidden
+      - Type: Lesson
+        UID: d9eb25fc-2373-465e-b998-c0b497423b1c
+        Path: Solutions/hashTable.md
+        DefaultVisibility: hidden
+      - Type: Checkpoint
+        UID: 3d5d095e-8349-48fd-961b-6d7be98d1089
+        Path: /checkpoint.md
+        Autoscore: false
