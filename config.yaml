@@ -5,15 +5,15 @@ Title: toy-problems
 # `unityaml`: add a standard, including one checkpoint and lesson
 # Be sure to place the cursor at the appropriate indentation level before running either of these.
 Standards:
-  - Title: Toy Problem /Solutions
+  - Title: Toy Problem Solutions
     UID: 0d144c58-3577-447f-8153-1ab655d3c433
-    Description: /Solutions to your daily toy problems.
+    Description: Solutions to your daily toy problems.
     SuccessCriteria:
       - It works
     ContentFiles:
       - Type: Lesson
         UID: ff561a7b-0dbf-4a1d-984f-248ac7408637
-        Path: /Solutions/overview.md
+        Path: overview.md
       - Type: Lesson
         UID: b69f783f-cad1-4a93-8b9e-e814df8dec14
         Path: /Solutions/hash-table-resizing.md
@@ -234,5 +234,5 @@ Standards:
         DefaultVisibility: hidden
       - Type: Checkpoint
         UID: 3d5d095e-8349-48fd-961b-6d7be98d1089
-        Path: /checkpoint.md
+        Path: checkpoint.md
         Autoscore: false
