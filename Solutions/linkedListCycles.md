@@ -1,6 +1,7 @@
 
-# Solution: Linked List Cycles
+# Linked List Cycles
 
+## Solution
 
 
 ## Video

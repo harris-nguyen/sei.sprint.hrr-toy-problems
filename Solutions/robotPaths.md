@@ -1,6 +1,7 @@
 
-# Solution: Robot Paths
+# Robot Paths
 
+## Solution
 
 
 ## Video

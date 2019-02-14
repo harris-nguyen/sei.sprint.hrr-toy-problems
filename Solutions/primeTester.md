@@ -1,6 +1,7 @@
 
-# Solution: Prime Tester
+# Prime Tester
 
+## Solution
 
 
 ## Video

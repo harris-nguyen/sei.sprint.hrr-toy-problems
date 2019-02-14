@@ -1,6 +1,7 @@
 
-# Solution: Rotated Array Search
+# Rotated Array Search
 
+## Solution
 
 
 ## Video

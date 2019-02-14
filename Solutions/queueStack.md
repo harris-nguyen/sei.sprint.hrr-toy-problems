@@ -1,6 +1,7 @@
 
-# Solution: Queue Stack
+# Queue Stack
 
+## Solution
 
 
 ## Video

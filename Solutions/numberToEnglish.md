@@ -1,6 +1,7 @@
 
-# Solution: Number To English
+# Number To English
 
+## Solution
 
 
 ## Video

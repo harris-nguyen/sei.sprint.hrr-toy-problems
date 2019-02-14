@@ -1,6 +1,7 @@
 
-# Solution: Binary Heap
+# Binary Heap
 
+## Solution
 
 
 ## Video

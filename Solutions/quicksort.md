@@ -1,6 +1,7 @@
 
-# Solution: Quicksort
+# Quicksort
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Sum Array
+# Sum Array
 
+## Solution
 
 
 ## Video

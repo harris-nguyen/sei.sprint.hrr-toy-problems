@@ -1,6 +1,7 @@
 
-# Solution: Common Ancestor
+# Common Ancestor
 
+## Solution
 
 
 ## Video

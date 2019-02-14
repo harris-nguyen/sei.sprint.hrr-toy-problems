@@ -1,6 +1,7 @@
 
-# Solution: Function Bind
+# Function Bind
 
+## Solution
 
 
 ## Video

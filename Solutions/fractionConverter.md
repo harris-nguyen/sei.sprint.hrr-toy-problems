@@ -1,6 +1,7 @@
 
-# Solution: Fraction Converter
+# Fraction Converter
 
+## Solution
 
 
 ## Video

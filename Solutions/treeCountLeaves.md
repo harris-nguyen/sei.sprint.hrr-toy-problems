@@ -1,6 +1,7 @@
 
-# Solution: Tree Count Leaves
+# Tree Count Leaves
 
+## Solution
 
 
 ## Video

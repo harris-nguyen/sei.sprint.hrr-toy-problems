@@ -1,6 +1,7 @@
 
-# Solution: Compose Pipe
+# Compose Pipe
 
+## Solution
 
 
 ## Video

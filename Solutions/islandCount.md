@@ -1,6 +1,7 @@
 
-# Solution: Island Count
+# Island Count
 
+## Solution
 
 
 ## Video

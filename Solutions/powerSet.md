@@ -1,6 +1,7 @@
 
-# Solution: Power Set
+# Power Set
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Range Class
+# Range Class
 
+## Solution
 
 
 ## Video

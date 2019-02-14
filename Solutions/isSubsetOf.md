@@ -1,6 +1,7 @@
 
-# Solution: Is Subset Of
+# Is Subset Of
 
+## Solution
 
 
 ## Video

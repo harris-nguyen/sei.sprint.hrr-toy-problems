@@ -1,6 +1,7 @@
 
-# Solution: Tree B F Select
+# Tree B F Select
 
+## Solution
 
 
 ## Video

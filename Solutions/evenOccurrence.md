@@ -1,6 +1,7 @@
 
-# Solution: Even Occurrence
+# Even Occurrence
 
+## Solution
 
 
 ## Video

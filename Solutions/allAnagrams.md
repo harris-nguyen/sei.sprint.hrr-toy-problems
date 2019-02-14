@@ -1,6 +1,7 @@
 
-# Solution: All Anagrams
+# All Anagrams
 
+## Solution
 
 
 ## Video

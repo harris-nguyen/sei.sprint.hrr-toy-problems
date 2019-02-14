@@ -1,6 +1,7 @@
 
-# Solution: Hash Table Resizing
+# Hash Table Resizing
 
+## Solution
 
 
 ## Video

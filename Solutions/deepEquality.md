@@ -1,6 +1,7 @@
 
-# Solution: Deep Equality
+# Deep Equality
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Lru Cache
+# Lru Cache
 
+## Solution
 
 
 ## Video

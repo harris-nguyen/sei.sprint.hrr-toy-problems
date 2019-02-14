@@ -1,6 +1,7 @@
 
-# Solution: Sudoku Checker
+# Sudoku Checker
 
+## Solution
 
 
 ## Video

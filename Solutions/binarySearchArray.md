@@ -1,6 +1,7 @@
 
-# Solution: Binary Search Array
+# Binary Search Array
 
+## Solution
 
 
 ## Video

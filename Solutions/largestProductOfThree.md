@@ -1,6 +1,7 @@
 
-# Solution: Largest Product Of Three
+# Largest Product Of Three
 
+## Solution
 
 
 ## Video

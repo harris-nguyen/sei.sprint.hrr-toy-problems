@@ -1,6 +1,7 @@
 
-# Solution: Shuffle Deck
+# Shuffle Deck
 
+## Solution
 
 
 ## Video

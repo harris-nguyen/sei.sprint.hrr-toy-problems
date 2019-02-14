@@ -1,6 +1,7 @@
 
-# Solution: Rock Paper Scissors
+# Rock Paper Scissors
 
+## Solution
 
 
 ## Video

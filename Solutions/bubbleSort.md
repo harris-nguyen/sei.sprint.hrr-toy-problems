@@ -1,6 +1,7 @@
 
-# Solution: Bubble Sort
+# Bubble Sort
 
+## Solution
 
 
 ## Video

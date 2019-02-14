@@ -1,6 +1,7 @@
 
-# Solution: Integer Reverse
+# Integer Reverse
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Tree
+# Tree
 
+## Solution
 
 
 ## Video

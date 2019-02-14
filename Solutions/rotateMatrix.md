@@ -1,6 +1,7 @@
 
-# Solution: Rotate Matrix
+# Rotate Matrix
 
+## Solution
 
 
 ## Video

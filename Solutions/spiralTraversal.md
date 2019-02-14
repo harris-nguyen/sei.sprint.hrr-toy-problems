@@ -1,6 +1,7 @@
 
-# Solution: Spiral Traversal
+# Spiral Traversal
 
+## Solution
 
 
 ## Video

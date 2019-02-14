@@ -1,6 +1,7 @@
 
-# Solution: Nonrepeated Character
+# Nonrepeated Character
 
+## Solution
 
 
 ## Video

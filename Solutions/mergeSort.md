@@ -1,6 +1,7 @@
 
-# Solution: Merge Sort
+# Merge Sort
 
+## Solution
 
 
 ## Video

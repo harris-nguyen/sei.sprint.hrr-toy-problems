@@ -1,6 +1,7 @@
 
-# Solution: Insertion Sort
+# Insertion Sort
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Hash Table
+# Hash Table
 
+## Solution
 
 
 ## Video

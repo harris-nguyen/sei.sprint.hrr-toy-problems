@@ -1,6 +1,7 @@
 
-# Solution: Linked List Intersection
+# Linked List Intersection
 
+## Solution
 
 
 ## Video

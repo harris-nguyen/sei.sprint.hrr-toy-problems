@@ -1,6 +1,7 @@
 
-# Solution: Linked List
+# Linked List
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Telephone Words
+# Telephone Words
 
+## Solution
 
 
 ## Video

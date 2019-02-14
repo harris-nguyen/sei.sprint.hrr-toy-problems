@@ -1,6 +1,7 @@
 
-# Solution: Character Frequency
+# Character Frequency
 
+## Solution
 
 
 ## Video

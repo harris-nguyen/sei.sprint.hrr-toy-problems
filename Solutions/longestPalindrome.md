@@ -1,6 +1,7 @@
 
-# Solution: Longest Palindrome
+# Longest Palindrome
 
+## Solution
 
 
 ## Video

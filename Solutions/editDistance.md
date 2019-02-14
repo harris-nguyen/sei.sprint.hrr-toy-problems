@@ -1,6 +1,7 @@
 
-# Solution: Edit Distance
+# Edit Distance
 
+## Solution
 
 
 ## Video

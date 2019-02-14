@@ -1,6 +1,7 @@
 
-# Solution: Eventing Library
+# Eventing Library
 
+## Solution
 
 
 ## Video

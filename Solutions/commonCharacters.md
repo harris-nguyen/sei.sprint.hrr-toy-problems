@@ -1,6 +1,7 @@
 
-# Solution: Common Characters
+# Common Characters
 
+## Solution
 
 
 ## Video

@@ -1,6 +1,7 @@
 
-# Solution: Longest Run
+# Longest Run
 
+## Solution
 
 
 ## Video

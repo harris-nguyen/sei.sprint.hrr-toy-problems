@@ -1,6 +1,7 @@
 
-# Solution: Coin Sums
+# Coin Sums
 
+## Solution
 
 
 ## Video

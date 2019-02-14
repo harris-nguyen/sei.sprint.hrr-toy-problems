@@ -1,6 +1,7 @@
 
-# Solution: Constant Time Stack Min
+# Constant Time Stack Min
 
+## Solution
 
 
 ## Video
