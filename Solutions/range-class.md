@@ -1,12 +1,12 @@
 # Range Class Solution
 
-<iframe height="100%" width="100%" allowfullscreen="true" type="iframe"
-  title="Slides" src="https://docs.google.com/a/hackreactor.com/presentation/d/1H-368HBd9hFxydqafp0G9MY45zI6pTzgAWvxUSLRgZU/embed?start=false&loop=false&delayms=3000" />
+## Video
 
 ### !vimeo
 * id: 315286728
 ### !end-vimeo
 
-<!-- temp until the vimeo tag works -->
-<iframe height="100%" width="100%" allowfullscreen="true" type="iframe"
-  title="Video" src="//player.vimeo.com/video/315286728" ></iframe>
+## Slides
+
+<iframe height="100%" width="100%" allowfullscreen="true" type="iframe" style="min-height: 800px"
+  title="Slides" src="https://docs.google.com/a/hackreactor.com/presentation/d/1H-368HBd9hFxydqafp0G9MY45zI6pTzgAWvxUSLRgZU/embed?start=false&loop=false&delayms=3000" ></iframe>
