@@ -16,11 +16,11 @@ Standards:
         Path: /overview.md
       - Type: Lesson
         UID: b69f783f-cad1-4a93-8b9e-e814df8dec14
-        Path: //Solutions/hash-table-resizing.md
+        Path: /Solutions/hash-table-resizing.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: 3b0dd5f5-4681-4a10-abba-3351a8e37c02
-        Path: //Solutions/range-class.md
+        Path: /Solutions/range-class.md
         DefaultVisibility: hidden
       - Type: Lesson
         UID: 4f9c33aa-df64-411f-9cfa-3b7d9d11668d
