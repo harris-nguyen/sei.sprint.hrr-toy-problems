@@ -17,9 +17,11 @@ Standards:
       - Type: Lesson
         UID: b69f783f-cad1-4a93-8b9e-e814df8dec14
         Path: /Solutions/hash-table-resizing.md
+        DefaultVisibility: hidden
       - Type: Lesson
         UID: 3b0dd5f5-4681-4a10-abba-3351a8e37c02
         Path: /Solutions/range-class.md
+        DefaultVisibility: hidden
       - Type: Lesson
         UID: e7c73d08-c352-4c73-a301-c0e112c964cf
         Path: /Solutions/rockPaperScissors.md
