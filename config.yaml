@@ -13,7 +13,7 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: ff561a7b-0dbf-4a1d-984f-248ac7408637
-        Path: overview.md
+        Path: /overview.md
       - Type: Lesson
         UID: b69f783f-cad1-4a93-8b9e-e814df8dec14
         Path: /Solutions/hash-table-resizing.md
@@ -236,5 +236,5 @@ Standards:
         DefaultVisibility: hidden
       - Type: Checkpoint
         UID: 3d5d095e-8349-48fd-961b-6d7be98d1089
-        Path: checkpoint.md
+        Path: /checkpoint.md
         Autoscore: false
